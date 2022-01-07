@@ -7,4 +7,4 @@
 7. git rm :- it remove or delete the file .
 8. git rm  --cached <file.name> :- It remove file from only staging area.
 9. clear :-Removes untracked files from the working directory.
-10. git pull :-Pull command is used to receive data from GitHub.
+10. git pull :-Pull command is used to receive data from GitHub
