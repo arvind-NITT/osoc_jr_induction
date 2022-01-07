@@ -9,4 +9,7 @@
 9. clear :-Removes untracked files from the working directory.
 10. git pull :-Pull command is used to receive data from GitHub.
 
-extra line to create conflict and all
+extra line to create conflict 
+fixed the line to resolve the conflicts
+
+
