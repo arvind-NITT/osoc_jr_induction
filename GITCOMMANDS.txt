@@ -1,0 +1,12 @@
+1. git status -s :- it shows a short status 
+2. git log :- show all data and commit history.
+3. git log -p -n :-show the last n commits .
+4. git diff :- it show all the changes you made means it compare staging area and modified area and show what changes had made by you.
+5. git checkout -f :- checkout all the files to staging area.
+6. git diff --staged :- it compares last commit with staging area.
+7. git rm :- it remove or delete the file .
+8. git rm  --cached <file.name> :- It remove file from only staging area.
+9. clear :-Removes untracked files from the working directory.
+10. git pull :-Pull command is used to receive data from GitHub.
+
+extra line to create conflict and all
